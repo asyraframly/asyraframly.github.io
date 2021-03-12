@@ -1,0 +1,25 @@
+.navbar,
+a {
+  color: #fca311;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #fad2d3;
+}
+
+#projects {
+  background-color: #fad2d3;
+}
+
+#medsoc {
+  background-color: #fad2d3;
+}
+
+footer {
+  background-color: #800020;
+  color: #fff;
+}
+section {
+  padding-top: 5rem;
+}
